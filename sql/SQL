@@ -1,0 +1,5 @@
+sql/
+├── 01_sanity_check.sql
+├── 02_daily_user_funnel.sql
+├── 03_user_purchase_rate_by_channel.sql
+└── 04_session_funnel_by_channel.sql
